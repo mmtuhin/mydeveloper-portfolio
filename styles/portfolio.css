@@ -180,5 +180,25 @@ resume-column-title {
     font-weight: 600;
 }
 .resume-item-description{
+    font-size: 16px;
     font-weight: 400;
+}
+
+.resume-container hr {
+    margin: 15px;
+}
+
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+footer{
+    background: #FFF8F3;
+}
+
+.footer-container{
+    display: flex;
+    padding: 130px 230px;
 }
